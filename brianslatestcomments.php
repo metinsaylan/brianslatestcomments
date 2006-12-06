@@ -2,7 +2,7 @@
 /*
 Plugin Name: Brian's Latest Comments
 Plugin URI: http://meidell/latestcomments/
-Version: 1.5.7
+Version: 1.5.8
 Description: This shows an overview of the recently active articles and the last people to comment on them. Original idea and code fixes contributed by <a href="http://binarybonsai.com">Michael Heilemann</a>.<br />If you have <a href="http://binarybonsai.com/archives/2004/08/17/time-since-plugin/">Dunstan's Time Since</a> installed, this plugin uses it for the title="" attributes on the comments and posts. (For WordPress 1.5)
 Author: Brian Meidell
 Author URI: http://meidell.dk/blog
